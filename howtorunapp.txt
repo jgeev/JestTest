@@ -1,0 +1,14 @@
+------------------------------------------------------
+-------------------------------------------------------
+                How to Run the app
+------------------------------------------------------
+-------------------------------------------------------
+
+try node http_server.js
+if above doesnot work then try deleting the package.json , package-lock.json and node_modules folder
+npm init -y => this will create the both package.json files
+npm install <package names> eg: npm install express cors lowdb jest
+the above will install the packages and create node_modules folder
+if any additional package needs to be installed use the same command as above 
+finally run the app using node http_server.js if all is well it will show the message "Running on port 3000"
+you may now navigate to the localhost:3000 in your browser to see the app 

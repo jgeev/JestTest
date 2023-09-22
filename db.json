@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Leatha Bode",
+      "dob": "1981-6-5",
+      "email": "Leatha59@yahoo.com",
+      "username": "Leatha.Bode91",
+      "password": "_GEXlJWMSfRuFUQ",
+      "phone": "1-912-773-7747 x5190",
+      "streetaddress": "3940 Rutherford Passage",
+      "citystatezip": "Klockomouth, LA 34783",
+      "latitude": "-4.8587",
+      "longitude": "54.3991",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1207.jpg",
+      "company": "Wyman Group"
+    },
+    {
+      "name": "Creola Koch",
+      "dob": "1978-9-10",
+      "email": "Creola.Koch@yahoo.com",
+      "username": "Creola61",
+      "password": "MJfU8h7sg2p7skg",
+      "phone": "805-408-6660 x1120",
+      "streetaddress": "85685 Turner Pike",
+      "citystatezip": "South Garfieldmouth, MO 47686",
+      "latitude": "-38.3214",
+      "longitude": "28.4292",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/373.jpg",
+      "company": "Wolff - White"
+    }
+  ]
+}
