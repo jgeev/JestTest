@@ -58,12 +58,12 @@ it("Create user", async () => {
     await request.post("./add").send(user3);
   } catch (err) {}
 });
-/* it("compare users", async () => {
+it("compare users", async () => {
   try {
-    await ;
+    await service();
     expect(1).toBe(1);
   } catch (err) {}
-}); */
+});
 it("Hello World!", async () => {
   try {
     await service();
